@@ -13,4 +13,6 @@ II. Getting Started
 &ensp;&ensp;&ensp;&ensp;9.  [系统需求](https://github.com/icoreman/SpringBootDocument/blob/master/II.%20Getting%20Started/9.%20System%20Requirements.md)  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;9.1  [Servlet 容器](https://github.com/icoreman/SpringBootDocument/blob/master/II.%20Getting%20Started/9.%20System%20Requirements.md#91-Servlet-容器)  
 &ensp;&ensp;&ensp;&ensp;10.  [安装Spring Boot](https://github.com/icoreman/SpringBootDocument/blob/master/II.%20Getting%20Started/10.%20Installing%20Spring%20Boot.md)  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;10.1  [Installation Instructions for the Java Developer](https://github.com/icoreman/SpringBootDocument/blob/master/II.%20Getting%20Started/10.%20Installing%20Spring%20Boot.md#101-针对Java开发工具的安装说明)  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;10.1  [针对Java开发工具的安装说明](https://github.com/icoreman/SpringBootDocument/blob/master/II.%20Getting%20Started/10.%20Installing%20Spring%20Boot.md#101-针对Java开发工具的安装说明)  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;10.1.1  [使用 Maven 安装 ](https://github.com/icoreman/SpringBootDocument/blob/master/II.%20Getting%20Started/10.%20Installing%20Spring%20Boot.md#1011-使用-Maven-安装 )  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;10.1.2 [使用 Gradle安装 ](https://github.com/icoreman/SpringBootDocument/blob/master/II.%20Getting%20Started/10.%20Installing%20Spring%20Boot.md#1012-使用-Gradle-安装 )  
